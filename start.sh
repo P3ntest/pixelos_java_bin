@@ -1,1 +1,1 @@
-sudo java -jar PixelOS.jar
+sudo java -jar PixelOS-1.0-SNAPSHOT.jar
